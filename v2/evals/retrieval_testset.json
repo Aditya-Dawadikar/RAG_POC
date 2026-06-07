@@ -1,0 +1,162 @@
+[
+  {
+    "query": "What is April and how many days does it have?",
+    "relevant_ids": [
+      0
+    ],
+    "source_file": "wiki_00",
+    "topic": "April"
+  },
+  {
+    "query": "When was the People's Republic of China founded?",
+    "relevant_ids": [
+      1088
+    ],
+    "source_file": "wiki_01",
+    "topic": "People's Republic of China"
+  },
+  {
+    "query": "What is the capital city of Scotland?",
+    "relevant_ids": [
+      2183
+    ],
+    "source_file": "wiki_02",
+    "topic": "Scotland"
+  },
+  {
+    "query": "What is a tire and what material are most road vehicle tires made from?",
+    "relevant_ids": [
+      3287
+    ],
+    "source_file": "wiki_03",
+    "topic": "Tire"
+  },
+  {
+    "query": "What was the Mary Rose and when did it sink?",
+    "relevant_ids": [
+      4388
+    ],
+    "source_file": "wiki_04",
+    "topic": "Mary Rose"
+  },
+  {
+    "query": "Who was Esteban Huertas?",
+    "relevant_ids": [
+      5502
+    ],
+    "source_file": "wiki_05",
+    "topic": "Esteban Huertas"
+  },
+  {
+    "query": "What is Monaco and how small is it compared with other countries?",
+    "relevant_ids": [
+      6611
+    ],
+    "source_file": "wiki_06",
+    "topic": "Monaco"
+  },
+  {
+    "query": "What does nudity mean?",
+    "relevant_ids": [
+      7687
+    ],
+    "source_file": "wiki_07",
+    "topic": "Nudity"
+  },
+  {
+    "query": "Who was James A. Garfield?",
+    "relevant_ids": [
+      8797
+    ],
+    "source_file": "wiki_08",
+    "topic": "James A. Garfield"
+  },
+  {
+    "query": "What is a vaccine used for?",
+    "relevant_ids": [
+      9901
+    ],
+    "source_file": "wiki_09",
+    "topic": "Vaccine"
+  },
+  {
+    "query": "What is the U.S. 1st Infantry Division also called?",
+    "relevant_ids": [
+      11008
+    ],
+    "source_file": "wiki_10",
+    "topic": "U.S. 1st Infantry Division"
+  },
+  {
+    "query": "What do Maxwell's equations describe?",
+    "relevant_ids": [
+      12114
+    ],
+    "source_file": "wiki_11",
+    "topic": "Maxwell's equations"
+  },
+  {
+    "query": "Where do the New York Rangers play?",
+    "relevant_ids": [
+      13219
+    ],
+    "source_file": "wiki_12",
+    "topic": "New York Rangers"
+  },
+  {
+    "query": "What is Krakatoa?",
+    "relevant_ids": [
+      14331
+    ],
+    "source_file": "wiki_13",
+    "topic": "Krakatoa"
+  },
+  {
+    "query": "What is globalization?",
+    "relevant_ids": [
+      15434
+    ],
+    "source_file": "wiki_14",
+    "topic": "Globalization"
+  },
+  {
+    "query": "Who was Albert Coady Wedemeyer?",
+    "relevant_ids": [
+      16547
+    ],
+    "source_file": "wiki_15",
+    "topic": "Albert Coady Wedemeyer"
+  },
+  {
+    "query": "What does the history of India cover?",
+    "relevant_ids": [
+      17655
+    ],
+    "source_file": "wiki_16",
+    "topic": "History of India"
+  },
+  {
+    "query": "Where is Bielefeld located?",
+    "relevant_ids": [
+      18752
+    ],
+    "source_file": "wiki_17",
+    "topic": "Bielefeld"
+  },
+  {
+    "query": "What is Serial ATA used for?",
+    "relevant_ids": [
+      19847
+    ],
+    "source_file": "wiki_18",
+    "topic": "Serial ATA"
+  },
+  {
+    "query": "Who was Helmut Schmidt?",
+    "relevant_ids": [
+      20956
+    ],
+    "source_file": "wiki_19",
+    "topic": "Helmut Schmidt"
+  }
+]

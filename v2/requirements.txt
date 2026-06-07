@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+tqdm
+openai
+python-dotenv
+ragas==0.2.15
+datasets
+langchain-community<0.4.2
+langchain-groq
+langchain-huggingface
