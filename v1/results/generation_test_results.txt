@@ -1,0 +1,233 @@
+========== RAGAS GENERATION EVAL ==========
+faithfulness: 0.8579
+hallucination_rate: 0.1421
+
+========== CASE LEVEL RESULTS ==========
+
+----------------------------------------
+Case: 1
+Topic: April
+Query: What is April and how many days does it have?
+Reference Answer: April is a month of the year. It has 30 days.
+Retrieved IDs: [0, 1, 2]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: April is the fourth month of the year in the Julian and Gregorian calendars, and comes between March and May. It is one of four months to have 30 days. 
+
+Source chunk ids used: [Source 1 | chunk_id=0]
+
+----------------------------------------
+Case: 2
+Topic: People's Republic of China
+Query: When was the People's Republic of China founded?
+Reference Answer: The People's Republic of China was founded on October 1, 1949.
+Retrieved IDs: [1088, 19554, 1094]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: 1 October 1949. 
+[Source 1 | chunk_id=1088]
+
+----------------------------------------
+Case: 3
+Topic: Scotland
+Query: What is the capital city of Scotland?
+Reference Answer: The capital city of Scotland is Edinburgh.
+Retrieved IDs: [2183, 5921, 5923]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Edinburgh. 
+Source chunk ids used: 2183
+
+----------------------------------------
+Case: 4
+Topic: Tire
+Query: What is a tire and what material are most road vehicle tires made from?
+Reference Answer: A tire is a ring-shaped covering fitted around a wheel. Most road vehicle tires are made from rubber.
+Retrieved IDs: [3287, 3288, 17465]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: A tire is a ring of material that covers the rim of a wheel. Most road vehicles use rubber tires. 
+
+Source chunk ids used: 3287
+
+----------------------------------------
+Case: 5
+Topic: Mary Rose
+Query: What was the Mary Rose and when did it sink?
+Reference Answer: The Mary Rose was an English warship from the time of King Henry VIII. It sank in 1545.
+Retrieved IDs: [4388, 11174, 15046]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: The Mary Rose was a ship which belonged to Henry VIII of England. It sank in 1545 in battle with a French fleet. 
+
+Source chunk ids used: 4388
+
+----------------------------------------
+Case: 6
+Topic: Esteban Huertas
+Query: Who was Esteban Huertas?
+Reference Answer: Esteban Huertas was a Colombian general who played an important role in Panama's separation from Colombia.
+Retrieved IDs: [5502, 21109, 5054]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Esteban Huertas was a Colombian military leader from Panama. He was born in Boyacá, Colombia. [Source chunk_id=5502]
+
+----------------------------------------
+Case: 7
+Topic: Monaco
+Query: What is Monaco and how small is it compared with other countries?
+Reference Answer: Monaco is a small sovereign country and city-state. It is one of the smallest countries in the world, larger only than Vatican City.
+Retrieved IDs: [6611, 6614, 6613]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Monaco is the second smallest country in the world after the Vatican City. (Source 1 | chunk_id=6611)
+
+----------------------------------------
+Case: 8
+Topic: Nudity
+Query: What does nudity mean?
+Reference Answer: Nudity means not wearing clothes, or being naked.
+Retrieved IDs: [7688, 7687, 7722]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Nudity means being unclothed. 
+
+Source chunks used: 
+7688, 7687
+
+----------------------------------------
+Case: 9
+Topic: James A. Garfield
+Query: Who was James A. Garfield?
+Reference Answer: James A. Garfield was the 20th president of the United States. He was assassinated while in office.
+Retrieved IDs: [8797, 8799, 18664]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: James A. Garfield was the 20th president of the United States from March 1881 until his assassination in September 1881. 
+
+Source chunks used: 
+- [Source 1 | chunk_id=8797]
+- [Source 2 | chunk_id=8799]
+
+----------------------------------------
+Case: 10
+Topic: Vaccine
+Query: What is a vaccine used for?
+Reference Answer: A vaccine is used to help the immune system protect the body against disease.
+Retrieved IDs: [9901, 9904, 9909]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: To prevent a specific infectious or malignant disease. 
+
+Source chunk ids used: 9901
+
+----------------------------------------
+Case: 11
+Topic: U.S. 1st Infantry Division
+Query: What is the U.S. 1st Infantry Division also called?
+Reference Answer: The U.S. 1st Infantry Division is also called the Big Red One.
+Retrieved IDs: [11127, 9567, 9569]
+Faithfulness: nan
+Hallucination Rate: nan
+Generated Answer: I don't know based on the provided context. 
+Source chunk ids used: None
+
+----------------------------------------
+Case: 12
+Topic: Maxwell's equations
+Query: What do Maxwell's equations describe?
+Reference Answer: Maxwell's equations describe electric and magnetic fields and how they relate to electromagnetism.
+Retrieved IDs: [12114, 12120, 16608]
+Faithfulness: 0.6667
+Hallucination Rate: 0.3333
+Generated Answer: Maxwell's equations describe how electric charges and electric currents create electric and magnetic fields. 
+
+Source chunk ids used: 12114
+
+----------------------------------------
+Case: 13
+Topic: New York Rangers
+Query: Where do the New York Rangers play?
+Reference Answer: The New York Rangers play at Madison Square Garden in New York.
+Retrieved IDs: [1872, 13219, 12429]
+Faithfulness: 0.3333
+Hallucination Rate: 0.6667
+Generated Answer: They play in Madison Square Garden in New York City. 
+Source chunk ids used: 13219
+
+----------------------------------------
+Case: 14
+Topic: Krakatoa
+Query: What is Krakatoa?
+Reference Answer: Krakatoa is a volcanic island in Indonesia known for a major volcanic eruption.
+Retrieved IDs: [14478, 14331, 14332]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Krakatoa is an active volcano. 
+Source chunk ids used: 14331, 14332
+
+----------------------------------------
+Case: 15
+Topic: Globalization
+Query: What is globalization?
+Reference Answer: Globalization is the process by which countries and people become more connected through trade, communication, travel, and culture.
+Retrieved IDs: [15434, 15435, 15436]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Globalization is the spread of products, technology, information, and jobs across nations. (Source 1 | chunk_id=15434)
+
+----------------------------------------
+Case: 16
+Topic: Albert Coady Wedemeyer
+Query: Who was Albert Coady Wedemeyer?
+Reference Answer: Albert Coady Wedemeyer was a United States Army general who served during World War II.
+Retrieved IDs: [16547, 1815, 1818]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: General Albert Coady Wedemeyer (1897–1989) was an American army officer during World War II. 
+
+[Source 1 | chunk_id=16547]
+
+----------------------------------------
+Case: 17
+Topic: History of India
+Query: What does the history of India cover?
+Reference Answer: The history of India covers the past of India and the Indian subcontinent, including its civilizations and historical development.
+Retrieved IDs: [673, 17669, 17665]
+Faithfulness: 0.5000
+Hallucination Rate: 0.5000
+Generated Answer: The history of India covers the birth of one of the oldest languages of the world, Tamil, which is more than 3000 years old. It also includes the rise and fall of various empires such as the Maurya Empire, Chalukyas, Cholas, Pallavas, and Pandyas. Additionally, it covers the influence of European countries, the British rule, and the partition of India and Pakistan. (Source 1, Source 2, Source 3)
+
+----------------------------------------
+Case: 18
+Topic: Bielefeld
+Query: Where is Bielefeld located?
+Reference Answer: Bielefeld is located in North Rhine-Westphalia, Germany.
+Retrieved IDs: [16733, 2986, 2985]
+Faithfulness: 0.0000
+Hallucination Rate: 1.0000
+Generated Answer: I don't know based on the provided context.
+
+----------------------------------------
+Case: 19
+Topic: Serial ATA
+Query: What is Serial ATA used for?
+Reference Answer: Serial ATA is used to connect computer storage devices such as hard drives and optical drives to a computer.
+Retrieved IDs: [19847, 19848, 14737]
+Faithfulness: 0.8000
+Hallucination Rate: 0.2000
+Generated Answer: Serial ATA is used to connect storage devices or optical drives to a computer. 
+
+Source chunk ids used: 19847, 19848
+
+----------------------------------------
+Case: 20
+Topic: Helmut Schmidt
+Query: Who was Helmut Schmidt?
+Reference Answer: Helmut Schmidt was a German politician who served as Chancellor of West Germany.
+Retrieved IDs: [20956, 20937, 11380]
+Faithfulness: 1.0000
+Hallucination Rate: 0.0000
+Generated Answer: Helmut Schmidt was a German politician. He was Chancellor of the Federal Republic of Germany from 1974 to 1982. 
+
+Source chunk ids used: 20956
